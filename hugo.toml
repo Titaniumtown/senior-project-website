@@ -2,3 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 contentDir = "content"
+theme = 'PaperMod'
+
+
+[params]
+hideFooter = true
+hideHeader = true

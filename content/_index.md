@@ -19,7 +19,7 @@ ___
 
 | Semester 1 |
 |----------------------|--------------------------------|
-| Plan (Sep 3)         | [Plan](/files/ProjectPlan.pdf), [Presentation](/files/PlanPresentation.pdf) |
+| Plan (Sep 3)         | [Plan](https://docs.google.com/document/d/1uGY3jJ0W_5pgV1YzW-5gmOJ9BMoqP_gZKhkUnOqbc1s/edit?usp=sharing), [Presentation](/files/PlanPresentation.pdf) |
 | Milestone 1 (Sep 29) | [Requirement](/files/M1Requirement.pdf), [Design](/files/M1Design.pdf), [Test](/files/M1Test.pdf), [Presentation](/files/M1Presentation.pdf), [Progress Evaluation](/files/M1Eval.pdf) |
 | Milestone 2 (Oct 27) | [Presentation](/files/M2Presentation.pdf), [Progress Evaluation](/files/M2Eval.pdf) |
 | Milestone 3 (Nov 24) | [Presentation](/files/M3Presentation.pdf), [Progress Evaluation](/files/M3Eval.pdf) |

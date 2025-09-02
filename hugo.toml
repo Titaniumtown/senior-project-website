@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Java Program Visualization Senior Project'
 contentDir = "content"
-theme = 'PaperMod'
+theme = 'theme'
 
 
 [params]

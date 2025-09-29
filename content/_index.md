@@ -25,6 +25,6 @@ ___
 | Semester 1 |
 |----------------------|--------------------------------|
 | Plan (Sep 3)         | [Plan](https://docs.google.com/document/d/1uGY3jJ0W_5pgV1YzW-5gmOJ9BMoqP_gZKhkUnOqbc1s/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1KNivpsM9nJwmOXnlvwbgrwOKHp-TJuv1H46JpZYukZs/edit?usp=sharing) |
-| Milestone 1 (Sep 29) | [Requirement](), [Design](), [Test](), [Presentation](), [Progress Evaluation]() |
+| Milestone 1 (Sep 29) | [Requirement](https://docs.google.com/document/d/1ny2L3R54ITCK9DAMU9itG44oKyfQnFOwIxCXUm_FQsY), [Design](https://docs.google.com/document/d/14WRT_UsHhVKSG-OTVaE1u2e2G6rSpCW3-L1LhaXS11I), [Test](), [Presentation](https://docs.google.com/presentation/d/1ZM2m3Ivuzl1B0BAZQaj2OGmZa9HUO_tiZ7DTAYzvrcI), [Progress Evaluation]() |
 | Milestone 2 (Oct 27) | [Presentation](), [Progress Evaluation]() |
 | Milestone 3 (Nov 24) | [Presentation](), [Progress Evaluation]() |

@@ -35,6 +35,6 @@ ___
 | Semester 2 |
 |----------------------|--------------------------------|
 | Plan (Jan 26)        | [Plan](https://docs.google.com/document/d/1ZXqcUsbRQhup8jT0oJ533XPsT0JfAWLx-W2X6U6FHt8/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1GuLZiHirYXQms7iQiwBBQz33PRrXhN3egqcheUGgK-s/edit?usp=sharing) |
-| Milestone 4 (Feb 23) | [Presentation](), [Progress Evaluation]() |
+| Milestone 4 (Feb 23) | [Presentation](https://docs.google.com/presentation/d/1hOTezo5OlwVJrQFdqQsvNe5t723SF9Aw4QX5d542h3g/edit?usp=sharing), [Progress Evaluation](https://docs.google.com/document/d/1jnZQVgdH5obIABj2gD_TnjK5JCQTBPkjOxz8q-dJ4Yk/edit?usp=sharing) |
 | Milestone 5 (Mar 30) | [Poster](), [Presentation](), [Progress Evaluation]() |
 | Milestone 6 (Apr 20) | [User/Developer Manual](), [Demo Video](), [Presentation](), [Progress Evaluation]() |
